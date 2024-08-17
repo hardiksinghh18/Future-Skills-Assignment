@@ -17,27 +17,23 @@ Installation
 Clone the repository:
 
 ```bash
- 
-git clone https://github.com/yourusername/your-repository.git
-cd your-repository/frontend
+ git clone https://github.com/hardiksinghh18/Future-Skills-Assignment.git
+cd Future-Skills-Assignment/frontend
 ```
 Install dependencies:
 
 ```bash
- 
-npm install
+ npm install
 ```
 or if using yarn:
 
 ```bash
- 
-yarn install
+ yarn install
 ```
 Start the development server:
 
 ```bash
- 
-npm start
+ npm start
 ```
 or if using yarn:
 
@@ -74,8 +70,8 @@ Clone the repository:
 
 ```bash
  
-git clone https://github.com/yourusername/your-repository.git
-cd your-repository/backend
+git clone https://github.com/hardiksinghh18/Future-Skills-Assignment.git
+cd Future-Skills-Assignment/backend
 ```
 Install dependencies:
 
